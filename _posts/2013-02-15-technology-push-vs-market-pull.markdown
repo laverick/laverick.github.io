@@ -2,12 +2,12 @@
 layout: post
 title: "Technology Push vs. Market Pull"
 date: 2013-02-15 14:27
-categories: business, strategy, startups
+categories: business strategy startups
 ---
 
 A few years ago I saw a B-school lecture on __Technology Push vs. Market Pull__. Discussion focused on the Segway as an example of a failed [technology push](http://en.wikipedia.org/wiki/Technology_push) venture. 
 
-{% img center /images/segway_red.jpg 240 'red segway' 'images' %}
+![red segway](/images/segway_red.jpg)
 
 Remember the Segway? It was going to revolutionize walking. Steve Jobs called it "as big a deal as the PC" and John Doerr said it "may be bigger than the Internet".  Nowadays "walking reinveted" pretty much serves as a tourist gimmick.
 
@@ -18,7 +18,7 @@ A key mistake for the Segway venture was failure to validate demand. The technol
 
 A funny, illustrative example from the lecture was the three wheel Segway ripoff. This would have been a simple way to test people's appetite for replacing walking without all the expensive tech required. MVP much?
 
-{% img center /images/segway_clone.jpg 280 'segway clone' 'images' %}
+![segway clone](/images/segway_clone.jpg)
 
 ##Risk Backlog
 

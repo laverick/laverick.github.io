@@ -12,7 +12,7 @@ We had 9 people at the start and there was a good mix of people with different s
 
 **Getting out of the building** - Credit to our biz guys Christian and John M. When we needed some customer feedback they ran around tirelessly talking to people. They knocked on coworking space doors (on the weekend) to get some insight and generally provided a good shot of energy to the team.
 
-**Determination** - Everyone left by Sunday evening had pitched in and done their part after a long weekend. [@missuze](http://twitter.com/missuze) kept the vision AND knocked out our demo site; [@raisercostin](href="http://twitter.com/raisercostin) calmly reminded us of the objectives when things got frantic and pitched in wherever possible; [Christian](http://www.facebook.com/profile.php?id=500441629) presented and brought lots of energy; [@jonmathews](http://twitter.com/jonmathews)put together the deck and the numbers; and [@johnvdenley](http://twitter.com/johnvdenley) got user feedback and took the Ninja plunge.
+**Determination** - Everyone left by Sunday evening had pitched in and done their part after a long weekend. [@missuze](http://twitter.com/missuze) kept the vision AND knocked out our demo site; [@raisercostin](href="http://twitter.com/raisercostin) calmly reminded us of the objectives when things got frantic and pitched in wherever possible; [Christian](http://www.facebook.com/profile.php?id=500441629) presented and brought lots of energy; [@jonmathews](http://twitter.com/jonmathews) put together the deck and the numbers; and [@johnvdenley](http://twitter.com/johnvdenley) got user feedback and took the Ninja plunge.
 
 
 **The Ninja** - Christian and John also came back with a Ninja costume.  This seemed a bit silly at the time since nobody wanted to embarrass themselves by wearing it. Big John eventually gathered more courage than the rest of us to try on the costume.  Once he had it on he wouldn't take it off and it made the presentation and event memorable and fun.
@@ -26,7 +26,8 @@ We had 9 people at the start and there was a good mix of people with different s
 
 **Tools** - In retrospect a lot of tools would have been useful from the start. We made a shared Google Doc, but we could have used Dropbox to share files, a simple email group to share things via email, etc.
 
-<a href=" https://twitter.com/#!/ediggs/status/184004760553263104/photo/1/large"><img class="  " title="The Ninja" src="https://p.twimg.com/Ao23WtYCEAA872m.jpg:large" alt="" width="576" height="384" /></a> The DeskNinja himself!
+![The Ninja](https://pbs.twimg.com/media/Ao23WtYCEAA872m.jpg:large)[via twitter](https://twitter.com/#!/ediggs/status/184004760553263104/photo/1/large)
+
 ###Lessons learned:
 **Designate a project manager** - Someone needs to organise the team, assign roles, and plan the weekend. Decide what the final deliverable is and plan backwards on the critical stuff.
 
@@ -38,5 +39,5 @@ We had 9 people at the start and there was a good mix of people with different s
 
 **Execution matters** - When push came to shove around lunchtime on Sunday we started focusing on the presentation at the cost of a demo, including a working iOs client. In retrospect a good working demo wasn't just one of the judging criteria, it was a key way to communicate what your team had accomplished.
 
-Looking forward to <a href="http://twitter.com/sc_seedhack">@sc_seedhack</a> to apply some on the weekend!]]></content:encoded>
+Looking forward to [@sc_seedhack](http://twitter.com/sc_seedhack) to apply some on the weekend!
 
