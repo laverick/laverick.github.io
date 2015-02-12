@@ -15,14 +15,11 @@ In the meantime, here's a short story about the invention of a heuristic invente
 After a year of working at Sony Computer Entertainment the standard employment contracts were changed and employees were asked to agree to new terms. This took the form of a nagging email reminder that sent you to an 'Accept' button on the company intranet. The problem was that the new contracts had a much broader definition of IP. 
 
 The gist of the original contract was: __\*__
-{% blockquote %}
-Sony has the right of first refusal on any video game related IP you develop in your own time.
-{% endblockquote %}
+
+> Sony has the right of first refusal on any video game related IP you develop in your own time.
 
 The new agreement said something along these lines:__\*__
-{% blockquote %}
-Any IP you develop at any time over the course of your employment belongs to Sony. 
-{% endblockquote %}
+> Any IP you develop at any time over the course of your employment belongs to Sony.
 
 After reading the terms and ignoring the emails for a few weeks a  "Sarbox Compliance Officer" was assigned the unenviable task of harranging me into clicking the button. This brought on a conversation with Andrew and a subsequent discussion with Human Resources in which Andrew offered a delightfully ridiculous test of the new terms:
 
