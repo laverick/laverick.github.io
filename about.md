@@ -4,8 +4,21 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi, my name is Dustin Laverick. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I'm a software developer and entrepreneur.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I used to make video games for big companies. These days I do consulting on technology and business strategy, implementation of mobile and server tech, and work on my own ideas.
+
+If you need help with a project or just want to have a chat please get in touch.
+
+**[linkedin](http://www.linkedin.com/in/dustinlaverick)**
+
+**[twitter](https://twitter.com/laverick)**
+
+**email: firstname @ lastname .org **
+
+
+
+
+
