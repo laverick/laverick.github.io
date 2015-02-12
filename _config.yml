@@ -6,6 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://laverick.org" # the base hostname & protocol for your site
 twitter_username: laverick
 github_username:  laverick
+permalink: :title
 
 # Build settings
 markdown: kramdown

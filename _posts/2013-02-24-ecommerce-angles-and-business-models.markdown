@@ -3,6 +3,7 @@ layout: post
 title: "Ecommerce - Business Models and Secret Sauce"
 date: 2013-02-24 22:16
 categories: update
+permalink: ecommerce-business-models
 ---
 
 Last week I saw OneFineStay COO Demetrios Zoppos give some advice on fundraising. He said to assume investors will have pattern recognition on common categories like ecommerce. They'll know what the numbers are and when to start paying attention.

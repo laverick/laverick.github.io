@@ -2,7 +2,8 @@
 layout: post
 title: "Learning Vim. Again."
 date: 2012-03-20 22:59
-categories: code tools 
+categories: code tools
+permalink: learning-vim
 ---
 
 A few months ago I decided I would start using Vim again.  I tried switching a few times before but never stuck with it, mostly because of the abrupt changes from using Notepad++ at work and TextMate at home.

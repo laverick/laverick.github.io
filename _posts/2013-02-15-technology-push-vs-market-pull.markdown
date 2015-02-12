@@ -3,6 +3,7 @@ layout: post
 title: "Technology Push vs. Market Pull"
 date: 2013-02-15 14:27
 categories: business strategy startups
+permalink: technology-push-market-pull
 ---
 
 A few years ago I saw a B-school lecture on __Technology Push vs. Market Pull__. Discussion focused on the Segway as an example of a failed [technology push](http://en.wikipedia.org/wiki/Technology_push) venture. 

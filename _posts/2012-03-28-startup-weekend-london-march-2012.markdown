@@ -3,6 +3,7 @@ layout: post
 title: "Startup Weekend London - March 2012"
 date: 2012-03-28 06:53
 categories: hackathon startups networking
+permalink: startup-weekend
 ---
 
 I was at Startup Weekend London at Google's new [Campus London]("http://www.campuslondon.com/") this past weekend.  I had a load of fun, learned a lot and would recommend it to just about anyone.

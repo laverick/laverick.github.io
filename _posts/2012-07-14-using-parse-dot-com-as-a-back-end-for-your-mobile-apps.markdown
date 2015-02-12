@@ -3,6 +3,7 @@ layout: post
 title: "Using Parse.com as a Back End for your Mobile Apps"
 date: 2012-07-14 18:29
 categories: iOs architecture services model
+permalink: parse-ios
 ---
 [Parse](http://parse.com) has been growing in popularity and [mind share](http://www.businessinsider.com/meet-the-most-important-startup-of-2012-2012-7). It's a quick way to get a mobile application with a networked back end up and running. It saves you time from creating a REST API for your application's back end, and a mobile developer can build an entire app in native code, including the data model
 

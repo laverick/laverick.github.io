@@ -3,6 +3,7 @@ layout: post
 title: "The Sex Tape Litmus Test"
 date: 2012-12-23 10:15
 categories: legal ip contracts employment
+permalink: sex-tape-litmus-test
 ---
 
 

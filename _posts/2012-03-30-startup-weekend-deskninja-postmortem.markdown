@@ -2,7 +2,8 @@
 layout: post
 title: "Startup Weekend - DeskNinja Postmortem"
 date: 2012-03-30 12:11
-categories: 
+categories: hackathon startups networking
+permalink: deskninja-postmortem
 ---
 
 ###What went right:

@@ -3,6 +3,7 @@ layout: post
 title: "Berlin Weekend Hack"
 date: 2012-05-12 18:10
 categories: hackathon prototype iOs
+permalink: berlin-hackathon
 ---
 
 Here’s a quick video of the protoype I hacked together over a weekend last month while in Berlin.
