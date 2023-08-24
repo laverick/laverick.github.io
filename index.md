@@ -1,8 +1,9 @@
 ---
 layout: page
 exclude: true
+title: Coaching Entrepreneurs to Find More Ease and Joy in Life
 ---
-# Coaching Entrepreneurs to Find More Ease and Joy in Life
+
 
 I help entrepreneurs suffering from stress, burnout, and crises of meaning find more ease, flow and connection.
 
