@@ -1,5 +1,6 @@
 ---
 layout: page
+exclude: true
 ---
 # Coaching Entrepreneurs to Find More Ease and Joy in Life
 
